@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "name": "Pokhara",
+        "description": "A beautiful lakeside city known for Phewa Lake and views of the Annapurna range."
+    },
+    {
+        "id": 2,
+        "name": "Kathmandu",
+        "description": "The capital city of Nepal, rich in history, culture, and UNESCO heritage sites."
+    },
+    {
+        "id": 3,
+        "name": "Lumbini",
+        "description": "The birthplace of Lord Buddha, a pilgrimage site for Buddhists worldwide."
+    },
+    {
+        "id": 4,
+        "name": "Chitwan",
+        "description": "Famous for Chitwan National Park and jungle safaris with rhinos and tigers."
+    },
+    {
+        "id": 5,
+        "name": "Everest Base Camp",
+        "description": "A trekking destination at the base of the world's highest peak, Mt. Everest."
+    }
+]

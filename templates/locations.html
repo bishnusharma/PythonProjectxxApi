@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Nepal Locations</title>
+</head>
+<body>
+    <h1>Nepal Locations</h1>
+    <ul>
+        {% for location in locations %}
+        <li>
+            <h2>{{ location.name }}</h2>
+            <p>{{ location.description }}</p>
+            <img src="{{ location.image }}" alt="{{ location.name }}" width="400">
+            <p><a href="/locations/{{ location.id }}">View details</a></p>
+        </li>
+        {% endfor %}
+    </ul>
+</body>
+</html>
